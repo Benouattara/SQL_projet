@@ -2,11 +2,11 @@
 -- SQL GAMING PROJECT
 -- Projet d'analyse de l'industrie des jeux vidéo
 -- Auteur: BEN OUATTARA
--- Date: Février 2026
+-- Date: Octobre 2025
 -- ========================================================
 
 -- Création de la base de données
-DROP DATABASE IF EXISTS gaming_industry;
+-- DROP DATABASE IF EXISTS gaming_industry;
 CREATE DATABASE gaming_industry CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE gaming_industry;
 
@@ -17,7 +17,7 @@ CREATE TABLE studios (
     studio_id INT PRIMARY KEY AUTO_INCREMENT,
     studio_name VARCHAR(100) NOT NULL,
     country VARCHAR(50) NOT NULL,
-    founded_year YEAR NOT NULL,
+    founded_year SMALLINT NOT NULL,
     employees_count INT,
     headquarters_city VARCHAR(100),
     INDEX idx_country (country),
