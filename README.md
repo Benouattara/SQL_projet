@@ -3,7 +3,7 @@
 ## Analyse de l'industrie des jeux vidéo avec SQL
 
 **Auteur:** BEN OUATTARA  
-**Date:** Février 2026  
+**Date:** Octobre 2025  
 **Technologies:** MySQL, SQL Workbench
 
 ---
@@ -281,9 +281,9 @@ Ce projet démontre:
 
 **BEN OUATTARA**
 
-- GitHub: [@VOTRE_USERNAME](https://github.com/VOTRE_USERNAME)
-- LinkedIn: [Votre LinkedIn](https://linkedin.com/in/votre-profil)
-- Email: votre.email@example.com
+- GitHub: https://github.com/Benouattara 
+- LinkedIn: https://www.linkedin.com/in/ben-youssouf-ouattara-a9b912193/
+- Email: benouattara3@gmail.com
 
 ---
 
