@@ -2,7 +2,7 @@
 -- SQL GAMING PROJECT
 -- Projet d'analyse de l'industrie des jeux vidéo
 -- Auteur: BEN OUATTARA
--- Date: Février 2026
+-- Date: Octobre 2025
 -- ========================================================
 
 -- Création de la base de données
