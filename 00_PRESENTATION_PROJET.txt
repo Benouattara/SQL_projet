@@ -302,6 +302,4 @@ Le projet contient 10 fichiers essentiels:
 Pour toute question ou suggestion d'amélioration, n'hésitez pas à créer
 une issue sur GitHub ou à me contacter directement.
 
-Bon développement et bonne chance avec votre carrière data! 🚀
-
 ═══════════════════════════════════════════════════════════════════════════
