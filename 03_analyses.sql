@@ -85,7 +85,7 @@ ORDER BY SUM(sa.revenue_millions) DESC;
 -- ========================================================
 -- ANALYSE 4: STUDIOS LES PLUS PERFORMANTS
 -- ========================================================
--- Identifie les studios qui créent les jeux les plus rentables et les mieux notés
+-- Identifier les studios qui créent les jeux les plus rentables et les mieux notés
 
 SELECT 
     s.studio_name AS 'Studio de Développement',
@@ -111,7 +111,7 @@ LIMIT 15;
 -- ========================================================
 -- ANALYSE 5: RETOUR SUR INVESTISSEMENT (ROI)
 -- ========================================================
--- Calcule le rapport entre budget de développement et revenus générés
+-- Calcule du rapport entre budget de développement et revenus générés
 
 SELECT 
     g.game_title AS 'Nom du Jeu',
